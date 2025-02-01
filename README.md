@@ -12,4 +12,4 @@ Se sei interessato a vedere la presentazione associata a questo progetto, puoi a
 
 1. Clona il repository:
    ```bash
-   git clone https://github.com/tuo-utente/progetto-xyz.git
+   git clone https://github.com/tuo-utente/MonsterTournament_Beta0.3.1.zip
